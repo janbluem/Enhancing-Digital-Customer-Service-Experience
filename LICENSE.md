@@ -16,7 +16,7 @@ This dataset is released for non-commercial academic research purposes only. Any
 To request access or reuse rights, please contact:
 
 **Cambridge Service Alliance**  
-Email: jhb65@cam.ac.uk 
+Email: jhb65@cam.ac.uk
 Affiliation: University of Cambridge
 
 We reserve the right to deny requests that do not align with the ethical standards or data sharing agreements of the project.
